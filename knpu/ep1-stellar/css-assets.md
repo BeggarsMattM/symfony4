@@ -1,6 +1,6 @@
 # Assets: CSS & JavaScript
 
-Even astronauts - who *generally* spend their time staring into the black absyss -
+Even astronauts - who *generally* spend their time staring into the black abyss -
 demand a site that is *less* ugly than this! Let's fix that!
 
 If you download the course code from the page that you're watching this video on
